@@ -25,7 +25,8 @@ Email Me 👉 ✉️ **ramanjotkaurraman4@gmail.com ** For Collaboration/Project
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=RamanGrewal-002&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
 
 ### ✍️ Random Dev Quote
@@ -34,7 +35,9 @@ Email Me 👉 ✉️ **ramanjotkaurraman4@gmail.com ** For Collaboration/Project
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RamanGrewal-002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=RamanGrewal-002&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=RamanGrewal-002&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
